@@ -9,3 +9,15 @@ body{
 .icono{
     width: 40px;
 }
+
+/*Para pagina 3*/
+.mt{
+    margin-top: 50px;
+}
+.wth{
+    width: 60%;
+    margin-top: 50px;
+}
+.mb{
+    margin-bottom: 50px;
+}
