@@ -1,3 +1,17 @@
+
+//Primera pagina al seleccionar un boton se seleccionara un objeto con el que se trabajara toda la pagina
+
+//Segunda pagina se confirmará el usuario ingresando la contraseña ya definida en el arreglo
+
+//Tercera pagina se harán calculos y operaciones con el dinero
+
+
+
+
+
+
+
+
 const Persona = [
     
     {
