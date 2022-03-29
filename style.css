@@ -12,12 +12,17 @@ body{
 
 /*Para pagina 3*/
 .mt{
-    margin-top: 50px;
+    margin-top: 4%;
 }
 .wth{
     width: 60%;
     margin-top: 50px;
+    border-radius: 30px 30px / 30px 30px;
 }
 .mb{
     margin-bottom: 50px;
+}
+
+.row{
+    margin: 2%;
 }
