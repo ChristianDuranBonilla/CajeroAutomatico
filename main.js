@@ -13,7 +13,6 @@
 
 
 const Persona = [
-    
     {
         id: 0,
         Nombre: 'Hirumi',
